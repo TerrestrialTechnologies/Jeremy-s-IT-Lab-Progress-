@@ -35,4 +35,4 @@ Connect network devices using the correct cable types based on devices being con
   All devices were connected according to lab topology and instructions demonstrated in
   the video
 
-  ![Completed Packet Tracer Topology](Screenshot From 2026-07-20 01-33-06.png)
+  ![Completed Packet Tracer Topology](Day_Two.png)
